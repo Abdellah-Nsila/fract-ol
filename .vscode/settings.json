@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "mlx.h": "c",
+        "keysym.h": "c",
+        "stdlib.h": "c",
+        "keysymdef.h": "c",
+        "stdio.h": "c"
+    }
+}
