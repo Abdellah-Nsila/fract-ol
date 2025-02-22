@@ -9,7 +9,7 @@ optimization in computer graphics and practice event handling
 
  - This project is about creating a small fractal
 exploration program. First, you have to know what
-a fractal is
+a fractal is.
 
 ## [Complex Numbers](https://github.com/Abdellah-Nsila/42cursus/blob/master/Milestone%202/fract-ol/Others/Markdown/Complex_Numbers.md)
 
