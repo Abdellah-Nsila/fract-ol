@@ -70,8 +70,8 @@ double	ft_strtod(const char *nptr, char **endptr)
 {
 	int		i;
 	int		sign;
-	double	int_part;
-	double	decimal_part;
+	double	int_part = 0.0;
+	double	decimal_part = 0.0;
 
 	i = 0;
 	if (!nptr || !*nptr)
